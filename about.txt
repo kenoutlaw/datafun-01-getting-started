@@ -1,0 +1,56 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome!
+
+ It's 2023-01-16 at 03:40 PM
+
+ This file is running on:    nt Windows 10
+ 
+ The Python version is:      3.11.1
+ 
+ The Python interpreter is at: 
+ C:\Users\maste\AppData\Local\Programs\Python\Python311\python.exe
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: None
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ C:\Users\maste\AppData\Local\Programs\Python\Python311
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ C:\Users\maste\OneDrive\Documents\datafun-01-getting-started
+ 
+ The absolute path to the data directory is:
+
+ C:\Users\maste\OneDrive\Documents\datafun-01-getting-started\
+ 
+ The absolute path to this source directory is:
+
+ c:\Users\maste\OneDrive\Documents\datafun-01-getting-started
+ 
+ The absolute path to this file is:
+
+ c:\Users\maste\OneDrive\Documents\datafun-01-getting-started\about.py
+ 
+==============================================================
+==============================================================
+
+[x] Task 1. Sign up for GitHub 
+[x] Task 2. Install (and configure) Git
+[x] Task 3. Install Miniconda3 (or other)
+[x] Task 4. Install VS Code
+[x] Task 5. Install VS Code Extension: Python
+[x] Task 6. Install VS Code Extension: GitHub Repositories
+[x] Task 7. Fork this repo into your account
+[x] Task 8. Clone your new GitHub repo down
+[x] Task 9. Explore the repo in VS Code
+[x] Task 10. Execute a Python script.
+[x] Task 11. Check the boxes (edit a Markdown file)
+[x] Task 12. Commit changes (with a message!) and push to GitHub
