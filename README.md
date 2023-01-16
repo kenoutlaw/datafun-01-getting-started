@@ -1,4 +1,5 @@
 # datafun-01-getting-started
+#Kendall Outlaw
 
 > An opinionated way to get started with Python for data analytics
 
